@@ -14,11 +14,11 @@ GIT COMMANDS
 1. Create repo on GITHUB
 2. git clone https://github.com/arunpatala/Hello-World.git
 3. echo "HELLO World!" > README.md
- 1  git add README.md 
- 2  git status
- 4  git config --global user.email "arunpatala@gmail.com"
- 5  git commit -m"adding README; first commit"
- 6  git push
-	# give email and password
- 7  git status
+	a. git add README.md 
+	b. git status
+	c. git config --global user.email "arunpatala@gmail.com"
+	d. git commit -m"adding README; first commit"
+	e. git push -u origin master
+	f. # give email and password
+	g. git status
 
