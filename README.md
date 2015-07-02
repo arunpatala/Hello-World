@@ -43,12 +43,14 @@ git push -u origin master
 7. git pull origin master
 
 DIFF
+===============
 8. git diff HEAD
 9. git diff --staged
 10. Remove from staged: git reset octofamily/octodog.txt
 11. Revert to last commit :: git checkout -- octocat.txt
 
-creating a beranch and working in it
+creating a branch and working in it
+======================================
 12. git branch clean_up
 13. git checkout clean_up
 14. do all changes
